@@ -26,3 +26,7 @@ language = 'ko'
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+python:
+  install:
+     - requirements: requirements.txt
