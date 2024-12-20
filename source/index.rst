@@ -19,6 +19,7 @@ Documentation
    :caption: Get Started
 
    get_started/installation.md
+   get_started/evaluation.md
 
 .. _tutolials:
 .. toctree::
