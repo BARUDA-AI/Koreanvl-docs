@@ -20,11 +20,24 @@ Documentation
 
    get_started/installation.md
    get_started/evaluation.md
+   get_started/dataformat.md
+   get_started/local-demo.md
 
 .. _tutolials:
 .. toctree::
    :maxdepth: 1
    :caption: Tutorials
+
+   tutorial/finetune_coco_caption.md
+
+.. _koreanvl:
+.. toctree::
+   :maxdepth: 1
+   :caption: KoreanVL
+
+   korean_vl/korean_vl_quickstart.md
+   korean_vl/korean_vl_finetune.md
+   korean_vl/koreanval_evaluation.md
 
 Indices and tables
 ==================
