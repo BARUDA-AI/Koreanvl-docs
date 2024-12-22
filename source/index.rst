@@ -7,9 +7,7 @@ Welcome to KoreanVL's tutorials!
    <strong>KoreanVL: 좋아요
    </strong>
     <br><br>
-    <a href="https://trendshift.io/repositories/9803" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9803" alt="OpenGVLab%2FInternVL | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-    <img height="55" alt="image" src="https://github.com/user-attachments/assets/bd62ab46-f0ea-40c6-ab10-7fde671716cc">
-   </p>
+
 
 Documentation
 -------------
