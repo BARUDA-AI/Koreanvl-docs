@@ -31,7 +31,7 @@ export SD_WORKER_URL=http://0.0.0.0:$SD_SERVER_PORT
 다음 명령을 실행하여 `$WEB_SERVER_PORT` 포트에서 Streamlit 웹 서버를 시작합니다.
 
 ```bash
-streamlit run app.py --server.port $WEB_SERVER_PORT -- --controller_url $CONTROLLER_URL --sd_worker_url $SD_WORKER_URL
+streamlit run app.py --server.port WEBSERVERPORT−−−−controllerurlWEB_SERVER_PORT -- --controller_url CONTROLLER_URL --sd_worker_url $SD_WORKER_URL
 ```
 
 참고: `-- --`는 오타가 아니며 필수입니다.
